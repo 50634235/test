@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 html5
+=======
+dev
+>>>>>>> master
